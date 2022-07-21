@@ -1,0 +1,6 @@
+---
+services:
+  leaky_route.route_subscriber:
+    class: Drupal\islandora_ghsa_route_fix\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

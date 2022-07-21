@@ -1,0 +1,8 @@
+{
+    "name": "islandora/islandora_ghsa_route_fix",
+    "type": "drupal-module",
+    "description": "Fixes GHSA-m58q-qq5h-mgqq.",
+    "require": {
+        "islandora/islandora": "^2.0"
+    }
+}

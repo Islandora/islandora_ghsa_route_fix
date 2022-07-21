@@ -1,0 +1,8 @@
+---
+type: module
+name: 'Islandora GHSA-m58q-qq5h-mgqq fix.'
+description: 'Plugs a hole that was present for anonymous upload.'
+core_version_requirement: ^9.1 || ^10.0
+package: Islandora
+dependencies:
+  - islandora:islandora
